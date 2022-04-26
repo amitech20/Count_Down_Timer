@@ -70,7 +70,7 @@ function signup(){
                                 }
                                 
                                 echo "<script> alert('Registration was successful'); 
-                                window.location = 'login.php'</script>";
+                                window.location = 'index.php'</script>";
                                 
                             
                       

@@ -15,7 +15,7 @@ session_start();
        
         <title>Login page</title>
 
-        <link rel="stylesheet" href="design.css">
+        <link rel="stylesheet" href="index.css">
     <style>
             .red
             {

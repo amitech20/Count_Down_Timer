@@ -16,7 +16,7 @@
 <html>
     <head>
         <title></title>
-        <link rel='stylesheet' href='design.css'>
+        <link rel='stylesheet' href='index.css'>
         <style>
 
             body{

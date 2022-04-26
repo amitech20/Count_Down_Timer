@@ -15,7 +15,7 @@ include ("action.php");
 <html>
     <head>
         <title> Sign up page </title>
-        <link rel="stylesheet" href="design.css">
+        <link rel="stylesheet" href="index.css">
         <style>
             .red
             {
@@ -44,7 +44,7 @@ include ("action.php");
                         <br><br>
                         <label>Confirm Password: </label>
                         <input type="password" placeholder="confirm your password" name="cpassword">
-                        <div class='signup1'>If you have an account already, <a href="login.php"><u><b> LOGIN </b></u></a></div>
+                        <div class='signup1'>If you have an account already, <a href="index.php"><u><b> LOGIN </b></u></a></div>
                         <br><br>
                         <input type="submit" name="submit" value="Signup">
                     </form>

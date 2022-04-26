@@ -42,7 +42,7 @@ $sec = $time_left;
 
 else {
     
-        header('location: login.php');
+        header('location: index.php');
 }
 
 
@@ -73,7 +73,7 @@ function displayDate() {
  session_unset();
 session_destroy();
 
- header("location: login.php");
+ header("location: index.php");
  ?>
 }
 
@@ -84,7 +84,7 @@ session_destroy();
 
 <?php } ?>
     
-    <link rel="stylesheet" href="design.css">
+    <link rel="stylesheet" href="index.css">
 
     
     

@@ -13,7 +13,7 @@ session_start();
         // echo session_id();
     else {
         
-            header("location: login.php");
+            header("location: index.php");
     }
     
 ?>
@@ -24,7 +24,7 @@ session_start();
 <html>
 
     <head>
-        <link rel="stylesheet" href="design.css">
+        <link rel="stylesheet" href="index.css">
         <!-- <meta charset = "UTF-8" /> -->
         <title> Todo list page </title>
 
